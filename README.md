@@ -26,8 +26,8 @@ Esta aplicação consiste em duas partes principais:
 1.**Clonar o Repositório**
 
 ```bash
-git clone [URL_DO_SEU_REPOSITORIO]
-cd [NOME_DA_PASTA_DO_REPOSITORIO]
+git clone https://github.com/gabrielfroes/sorteio-websocket
+cd sorteio-websocket
 ```
 
 2.**Instalar dependências**
