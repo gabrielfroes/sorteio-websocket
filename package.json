@@ -1,0 +1,11 @@
+{
+  "name": "sorteio-websocket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriel Froes",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.14.0"
+  }
+}
